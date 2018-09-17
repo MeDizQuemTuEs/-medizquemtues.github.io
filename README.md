@@ -1,9 +1,9 @@
 # medizquemtues.github.io
 
 
-# Build do projeto (Produção)
+#### Build do projeto (Produção)
 
-# Adição um novo build do projeto
+#### Adição um novo build do projeto
 
 1. na pasta do projeto abra o términal e certifique que todas bibliotecas estão instaladas e execute ``` ng g build --prod``` para gerar uma nova build de produção.
 
